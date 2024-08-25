@@ -1,5 +1,7 @@
-PATH
-  remote: /home/waishnav/work/simple_discussion
+GIT
+  remote: https://github.com/Waishnav/simple_discussion.git
+  revision: d1001132250a91c4f4f228b946fd0aa622478bbd
+  branch: leaderboard-ranking
   specs:
     simple_discussion (1.3.0)
       font-awesome-sass (>= 5.13.0)
